@@ -6,5 +6,6 @@ console.log(userName);
 let userSurname = prompt("qual'è il tuo Cognome?")
 console.log(userSurname);
 // poi chiedi il suo colore preferito
-
+let userFavColor = prompt("qual'è il tuo Colore preferito?")
+console.log(userFavColor);
 // Infine scrivi sulla pagina il risultato usando questo formato: nomecognomecolorepreferito23
